@@ -1,2 +1,7 @@
 # nodalcms
-NodalCMS - new CMS built in Node.JS
+
+NodalCMS - new modular CMS based on Node.JS
+Web site: nodalcms.com
+
+(c) ModularCoding Inc, https://modcoding.com
+
